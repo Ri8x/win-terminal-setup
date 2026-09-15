@@ -1,10 +1,10 @@
 # Normalize line endings on commit; checkout as CRLF on Windows
 * text=auto eol=crlf
 
-# PowerShell scripts — always CRLF
+# PowerShell scripts - always CRLF
 *.ps1   text eol=crlf
 
-# JSON — LF is fine
+# JSON - LF is fine
 *.json  text eol=lf
 
 # Markdown

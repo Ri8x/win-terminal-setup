@@ -113,7 +113,7 @@ if ($SkipFont) {
         oh-my-posh font install JetBrainsMono
         Write-Ok "JetBrainsMono Nerd Font installed (may require logout/reboot to register)"
     } else {
-        Write-Warn "oh-my-posh not found on PATH yet — restart shell and re-run, or install font manually."
+        Write-Warn "oh-my-posh not found on PATH yet. Restart your shell and re-run, or install the font manually."
     }
 }
 

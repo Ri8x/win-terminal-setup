@@ -49,7 +49,7 @@ if ($rl) {
 
     Set-PSReadLineOption -EditMode Windows
 
-    # Inline auto-suggestions — requires VT-capable terminal (Windows Terminal, etc.)
+    # Inline auto-suggestions - requires VT-capable terminal (Windows Terminal, etc.)
     try {
         Set-PSReadLineOption -PredictionSource HistoryAndPlugin
         Set-PSReadLineOption -PredictionViewStyle ListView
