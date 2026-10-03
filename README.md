@@ -2,6 +2,8 @@
 
 My PowerShell 7 + Windows Terminal setup. Tokyo Night Storm theme, JetBrainsMono Nerd Font, acrylic background.
 
+![Windows Terminal with this setup](docs/screenshot.png)
+
 ## Stack
 
 - **Oh My Posh** - prompt (tokyonight_storm theme)
